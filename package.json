@@ -1,0 +1,21 @@
+{
+  "name": "wovue-cols",
+  "version": "0.0.1",
+  "description": "wovue grid system component",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wovue/cols.git"
+  },
+  "keywords": [
+    "wovue",
+    "vue",
+    "component"
+  ],
+  "author": "Gean Carlos <gean.marroquin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wovue/cols/issues"
+  },
+  "homepage": "https://github.com/wovue/cols#readme"
+}
