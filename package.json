@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/wovue/cols/issues"
   },
-  "homepage": "https://github.com/wovue/cols#readme"
+  "homepage": "https://github.com/wovue/cols#readme",
+  "dependencies": {
+    "wocss-objects-cols": "0.0.1",
+    "wocss-settings-defaults": "0.0.1",
+    "wocss-tools-mixins": "0.0.2"
+  }
 }
