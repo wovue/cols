@@ -10,7 +10,7 @@
     props: [
       {
         name: 'verticalAlign',
-        type: [ String, Boolean],
+        type: [ String, Boolean ],
         default: false
       }, {
         name: 'gutter',
